@@ -1,6 +1,6 @@
 # PM-Assistant
 
-Cześć, z tej strony Filip! Jeśli pracujesz jako produktowiec/PM w software housie i szukasz narzędzi, które realnie będą Cię wspierać w Twojej pracy, to jesteś w dobrym miejscu. Przez ostatnie miesiące testowałem różne sposoby na jak najlepsze wykorzystanie AI w codzienności Product Ownera i tak powstał **PM-Assistant** - agent, który zna Twoje projekty i rozumie kontekst branży. Nie jest to żadna aplikacja, a zestaw reguł, dzięki którym Twoja praca będzie bardziej poukładana.
+Cześć, z tej strony Filip! 🙋🏽‍♂️ Jeśli pracujesz jako produktowiec/PM w software house'ie i szukasz narzędzi, które realnie będą Cię wspierać w Twojej pracy, to jesteś w dobrym miejscu. Przez ostatnie miesiące testowałem różne sposoby na jak najlepsze wykorzystanie AI w codzienności Product Ownera i tak powstał **PM-Assistant** - agent, który zna Twoje projekty i rozumie kontekst branży. Nie jest to żadna aplikacja, a zestaw reguł, dzięki którym Twoja praca będzie bardziej poukładana 🚀
 
 Cieszę się, że asystent w tej formie Cię zainteresował i mam nadzieję, że będzie przydatny w Twojej pracy!
 
