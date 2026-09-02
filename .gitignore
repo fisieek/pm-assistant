@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Kod klienta / produktu — NIGDY nie commituj.
+# projects/<nazwa>/code/ to miejsce, gdzie lokalnie klonujesz lub podlinkowujesz repo aplikacji.
+# Powierzchnia do odczytu i analizy dla asystenta, nie część tego repozytorium.
+projects/*/code/*
+!projects/*/code/sample.md
+
+# Obsidian — stan lokalny (otwarte zakładki, wtyczki), tworzy się przy otwarciu vaulta
+.obsidian/
+
+# Sekrety
+.env
+.env.*
+*.pem
+*.key
+
+# Zależności i buildy
+node_modules/
+dist/
+build/
+.next/
+__pycache__/
+*.pyc
+
+# Edytory
+.idea/
+*.swp
+.vscode/
+
+# Lokalne ustawienia Claude Code (uprawnienia itp.) — per maszyna, nie do repo
+.claude/settings.local.json

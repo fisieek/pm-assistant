@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Glob",
+      "Grep"
+    ],
+    "deny": [
+      "Edit(projects/*/code/*/**)",
+      "Write(projects/*/code/*/**)",
+      "MultiEdit(projects/*/code/*/**)",
+      "NotebookEdit(projects/*/code/*/**)",
+      "Bash(git push*)",
+      "Bash(git commit*)",
+      "Bash(git add*)",
+      "Bash(rm -rf*)"
+    ]
+  }
+}
